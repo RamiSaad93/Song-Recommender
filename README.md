@@ -64,14 +64,13 @@ The project is divided into two parts, each handling recommendations based on di
 ### Sample Recommendation Scenarios
 
 1. **Billboard Top 100 Match**:
-   - User song: “Shape of You”
-   - Recommendation: “Blinding Lights” (random selection from Billboard Top 100)
+   - User song: “Espresso”
+   - Recommendation: “Nights Like This” (random selection from Billboard Top 100)
 
 2. **Audio Feature-Based Recommendation**:
-   - User song: “Unknown Indie Track”
-   - Spotify Audio Features Retrieved: High energy, moderate danceability, low acousticness
-   - Cluster Prediction: Cluster 4 (e.g., Indie Rock/Alternative)
-   - Recommendation: “Somebody Else” by The 1975
+   - User song: “You Sound Good to Me”
+   - Spotify Audio Features Retrieved
+   - Recommendation: “We Ride” by bryan martin
 
 ## 🔧 Future Improvements
 
